@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edit this template
--->
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -19,7 +16,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             height:  35px;
             background-color: cadetblue;
             color:white;
-            padding: 4% 4% 4% 4%;
+            padding:  4%;
             text-align: center
             
             
@@ -40,8 +37,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             </div>
         </div>
             
-              <div class="row bg-info">
-                <div class="col m-6">
+              <div class="">
+                <div class="">
                     <p class="text-light p-3">The COM++ caughtb an access violation at <br />
                     address 0x00213CD4 within method SaveCompleted  <br />of interfaceIPersistFile. The method attempted to access address 0x00000978</p>
                     <div class=""><b><a href="wa.link/0vxk8l"> Contact Us</a></b></div>
@@ -52,6 +49,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
             
         </div>
         
-           <script type="text/javascript" src="js/bootstrap.min.js"></script>
+      
     </body>
 </html>
